@@ -1,0 +1,1 @@
+const shoppingList = ['Wurstel', 'Latte', 'Uova', 'Pasta', 'Pomodori','Mozzarella', 'Fagioli']
